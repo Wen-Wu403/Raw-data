@@ -1,0 +1,48 @@
+REMARK   This PDB file was created by CS Chem3D.
+HETATM    1  S   UNN     0       4.019  -0.001   0.414                      S 
+HETATM    2  F   UNN     0       4.098   0.004  -1.333                      F 
+HETATM    3  O   UNN     0       4.506   1.281   0.907                      O 
+HETATM    4  O   UNN     0       4.508  -1.285   0.900                      O 
+HETATM    5  N   UNN     0      -4.154  -0.003   0.437                      N 
+HETATM    6  C   UNN     0      -0.431  -0.001  -0.369                      C 
+HETATM    7  C   UNN     0      -1.922  -0.001  -0.626                      C 
+HETATM    8  C   UNN     0      -2.704  -0.003   0.695                      C 
+HETATM    9  C   UNN     0       0.249   1.153  -0.247                      C 
+HETATM   10  C   UNN     0       0.250  -1.154  -0.252                      C 
+HETATM   11  C   UNN     0       2.247  -0.001   0.098                      C 
+HETATM   12  C   UNN     0       1.571   1.155  -0.016                      C 
+HETATM   13  C   UNN     0       1.572  -1.157  -0.022                      C 
+HETATM   14  H   UNN     0      -2.207   0.891  -1.232                      H 
+HETATM   15  H   UNN     0      -2.206  -0.891  -1.235                      H 
+HETATM   16  H   UNN     0      -2.445   0.899   1.297                      H 
+HETATM   17  H   UNN     0      -2.444  -0.907   1.295                      H 
+HETATM   18  H   UNN     0      -0.285   2.114  -0.333                      H 
+HETATM   19  H   UNN     0      -0.282  -2.116  -0.343                      H 
+HETATM   20  H   UNN     0       2.090   2.124   0.078                      H 
+HETATM   21  H   UNN     0       2.093  -2.125   0.065                      H 
+HETATM   22  H   UNN     0      -4.417  -0.824  -0.135                      H 
+HETATM   23  H   UNN     0      -4.418   0.819  -0.133                      H 
+CONECT    1    2    3    4   11
+CONECT    2    1
+CONECT    3    1
+CONECT    4    1
+CONECT    5    8   22   23
+CONECT    6    7    9   10
+CONECT    7    6    8   14   15
+CONECT    8    5    7   16   17
+CONECT    9    6   12   18
+CONECT   10    6   13   19
+CONECT   11    1   12   13
+CONECT   12    9   11   20
+CONECT   13   10   11   21
+CONECT   14    7
+CONECT   15    7
+CONECT   16    8
+CONECT   17    8
+CONECT   18    9
+CONECT   19   10
+CONECT   20   12
+CONECT   21   13
+CONECT   22    5
+CONECT   23    5
+END
