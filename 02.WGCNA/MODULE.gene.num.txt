@@ -1,0 +1,8 @@
+Var1	Freq
+black	287
+blue	1141
+brown	2791
+green	579
+grey	7151
+pink	1092
+yellow	495
